@@ -1,0 +1,17 @@
+# Ignore the bin folder contents, but keep the dir
+bin/*
+!bin/.gitkeep
+
+# Ignore the docs folder contents, but keep the dir
+doc/*
+!doc/.gitkeep
+
+# Log files
+*.log
+
+# Swap files
+*.swp
+
+# Super secret settings file
+settings.ini
+
