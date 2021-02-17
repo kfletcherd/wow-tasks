@@ -18,9 +18,9 @@ class API {
 
 
 	/**
-	 * Run Forest, ruuuuuuuuuuun
+	 * Run time
 	 *
-	 * @param a Stop arguing with me young man
+	 * @param a args, should be a port
 	 */
 	public static void main(String[] a){
 		try {
@@ -41,7 +41,7 @@ class API {
 	}
 
 	/**
-	 * Strong listener, as long as your a port
+	 * Port listener
 	 *
 	 * TODO: Does any janky/weird stuff happen with these threads?
 	 * (live forever and/or get prematurely killed if the var is overwritten?)

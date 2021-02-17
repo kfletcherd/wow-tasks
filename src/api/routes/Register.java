@@ -14,8 +14,7 @@ import api.engine.Router;
 public final class Register extends Router {
 
 	/**
-	 * Dump all your routes here home-boy, lets see how gross we can
-	 * make this biznitch
+	 * Route dump
 	 */
 	public Register(){
 		super();
